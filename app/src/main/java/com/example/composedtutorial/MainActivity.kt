@@ -50,7 +50,7 @@ fun MessageCard(msg: Message) {
                 contentDescription = "Contact profile picture",
                 modifier = Modifier
                     // Set image size to 40 dp
-                    .size(40.dp)
+                    .size(45.dp)
                     // Clip image to be shaped as a circle
                     .clip(CircleShape)
             )
